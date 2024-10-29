@@ -1,9 +1,15 @@
 package main
 
-import linkedlist "d-s-a/linked-list"
+import (
+	doublylinkedlist "d-s-a/doubly-linked-list"
+)
 
 func main() {
 	// LikedList
-	linkedlist.LinkedListExec()
+	// linkedlist.LinkedListExec()
+
+	// Doubly Linked List
+
+	doublylinkedlist.DoublyLinkedListExec()
 
 }
