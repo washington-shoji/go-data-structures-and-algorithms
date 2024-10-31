@@ -1,7 +1,7 @@
 package main
 
 import (
-	"d-s-a/sets"
+	"d-s-a/queue"
 )
 
 func main() {
@@ -11,6 +11,10 @@ func main() {
 	// Doubly Linked List
 	// doublylinkedlist.DoublyLinkedListExec()
 
-	sets.SetsExec()
+	// Sets
+	// sets.SetsExec()
+
+	// Queue
+	queue.QueueExec()
 
 }
